@@ -4,8 +4,8 @@ konsep 1
 
 1.  berapakah skala peta tersebut jika berdasarkan satuan cm?
 
-![image](https://user-images.githubusercontent.com/93015185/139667220-2ffea14a-23f4-44e5-a8fa-ad6eb8cc5f2b.png)
-![image](https://user-images.githubusercontent.com/93015185/139667306-5b35ed9f-0efe-4462-beb4-0bc3a3860197.png)
+![image](https://user-images.githubusercontent.com/93015185/139669406-bd8d1a54-9589-492c-a523-1c12cfb15c8a.png)
+![image](https://user-images.githubusercontent.com/93015185/139669520-25160fbf-dc91-4a86-8ea1-614bf9398c5f.png)
 
 2. jarak sesungguhnya antara Seteng dan Labuhan Badas?
 
@@ -20,4 +20,9 @@ konsep 1
 konsep 2
 
 1. berapakah skala peta tersebut jika berdasarkan satuan cm?
+
+![image](https://user-images.githubusercontent.com/93015185/139668135-4d2c2ddd-6f61-452a-bacc-1d0815e5be01.png)
+![image](https://user-images.githubusercontent.com/93015185/139669782-f071c48c-1885-4aa5-bcf7-da92685b288b.png)
+
+2. jarak sesungguhnya antara Seteng dan Labuhan Badas?
 
