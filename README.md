@@ -14,8 +14,8 @@ konsep 1
 
 3. berapakah jarak antara kedua kecamatan sesungguhnya?
 
-![image](https://user-images.githubusercontent.com/93015185/139667659-e7d17e97-f1a0-426b-8215-fdebabbcf1a2.png)
-![image](https://user-images.githubusercontent.com/93015185/139667724-277bc4b1-3652-4cea-a6f6-baa9fcf6bd43.png)
+![image](https://user-images.githubusercontent.com/93015185/139672031-461b65e3-ca71-4065-859e-ea1e430256fa.png)
+![image](https://user-images.githubusercontent.com/93015185/139672121-a52866dd-63ac-4743-aced-e57f59b4bf5d.png)
 
 konsep 2
 
@@ -31,4 +31,5 @@ konsep 2
 
 3. berapakah jarak antara kedua kecamatan sesungguhnya?
 
-![image](https://user-images.githubusercontent.com/93015185/139670487-6b9d41fb-0b97-4540-ae7f-ffd1e4f32558.png)
+![image](https://user-images.githubusercontent.com/93015185/139672299-bf85b0e3-7dcc-4349-a021-45e30c99c77f.png)
+![image](https://user-images.githubusercontent.com/93015185/139672398-13471599-f9ea-473f-8825-28a46851d37f.png)
